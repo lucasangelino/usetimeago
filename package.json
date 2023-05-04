@@ -1,0 +1,20 @@
+{
+  "name": "usetimeagojs",
+  "version": "1.1.0",
+  "description": "React Hook to get time elapsed from a certain time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasangelino/usetimeago.git"
+  },
+  "author": "Lucas Angelino <angelino.n.lucas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasangelino/usetimeago/issues"
+  },
+  "homepage": "https://github.com/lucasangelino/usetimeago#readme",
+  "devDependencies": {}
+}

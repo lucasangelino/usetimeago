@@ -3,11 +3,6 @@
 With this **hook** you will be able to get time elapsed from a certain moment. 
 
 
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
 | Arguments| Require | Default|
 |--|--|--|
 | `timestamp` | required | null |
